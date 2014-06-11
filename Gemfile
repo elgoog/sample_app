@@ -9,6 +9,7 @@ gem 'rails', '4.0.5'
 group :development do
   gem 'sqlite3'
   gem 'rspec-rails', '2.13.1'
+  gem 'rb-readline'
 end
 
 group :test do
